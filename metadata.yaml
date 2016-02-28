@@ -1,0 +1,22 @@
+_repo: Home-Lyrics-A-Book-of-Poems_7336
+creator:
+  author:
+    agent_name: Battersby, H. S. (Hannah S.)
+    alias: Battersby, Hannah S.
+    deathdate: 1886
+    gutenberg_agent_id: '2426'
+    url: http://www.gutenberg.org/2009/agents/2426
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian poetry -- 19th century'
+title: 'Home Lyrics: A Book of Poems'
+url: http://www.gutenberg.org/ebooks/7336
